@@ -1,0 +1,13 @@
+
+
+
+
+# Network analysis
+
+1. DNS requests - Software: Hotspoot (PrivacySafe)
+2. SDK traffic - Software: Aether (PrivacySafe)
+3. API calls - isolating these from the other traffic and categorizing
+  * Positive
+  * Neutral
+  * Negative
+ 
